@@ -1,6 +1,7 @@
 # -DIOlab-natty-or-not
 
-Vídeo: As Corujas das IAs Generativas 🎥
+## Vídeo: As Corujas das IAs Generativas 🎥
+
 📒 Descrição
 Este vídeo de 29 segundos apresenta uma visão divertida, pois une Corujas, que são o simbolo da sabedoria, em um cénaio no qual são engenheiras de IA e tentam passar sua sabedoria para as máquinas.
 
