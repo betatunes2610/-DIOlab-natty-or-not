@@ -15,7 +15,7 @@ Usei o "Leonardo-IA " para criar as imagens, para a sintetização da voz com o 
 # 🚀 Resultados
 O vídeo é uma analogia a sabedoria. Então temos o cenário das corujas que são o simbolo da sabedoria ensinado as máquinas que buscam ter sabedoria o mais humana possível. 
 
-[LINK PARA O VÍDEO AQUI](https://github.com/betatunes2610/-DIOlab-natty-or-not/blob/main/Video/AsCorujasDaIAGenerativa.mp4)
+[LINK PARA O VÍDEO AQUI](https://github.com/betatunes2610/-DIOlab-natty-or-not/blob/main/Video/)
 
 
 
